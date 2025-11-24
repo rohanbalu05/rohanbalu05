@@ -14,15 +14,16 @@
   <br/>
   <br/>
 
-  <!-- STATIC RED PILL / BLUE PILL TEXT -->
+  <!-- RED PILL / BLUE PILL TEXT -->
   <h3>
-    Will you take the <span style="color: #ff0000;">red</span> pill or the <span style="color: #0077ff;">blue</span> pill?
+    Will you take the <span style="color: #FF0000;">red</span> pill or the <span style="color: #2E9AFE;">blue</span> pill?
   </h3>
   
   <br/>
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl5eWh4Z3B2Y2h4Z3B2Y2h4Z3B2Y2h4Z3B2Y2h4Z3B2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZnRzJmN0PWc/BCjxOYhE3FwZi/giphy.gif" width="100%" height="10px">
-  
+  <!-- DIVIDER LINE -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHl5eWh4Z3B2Y2h4Z3B2Y2h4Z3B2Y2h4Z3B2Y2h4Z3B2YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZnRzJmN0PWc/BCjxOYhE3FwZi/giphy.gif" width="100%" height="5px">
+
   <br/>
 
   ### ⚡ First Principle Thinker | High-Agency Builder
@@ -32,7 +33,7 @@
 </div>
 
 ### 👨‍💻 About Me
-I operate at the intersection of **Product, Community, and Agentic AI**. I don't just write code; I architect systems that solve real-world problems with **100% context accuracy**.
+I operate at the intersection of **Product, Community, and Agentic AI**. I don't just write code; I architect systems that solve real-world problems.
 
 *   **🔭 Currently:** **AI Generalist Fellow at Outskill**, engineering B2B2C multi-agent systems using **n8n** and **LangGraph** to automate clinic operations.
 *   **🌱 Leadership:** Founding Member of **OSCode**, driving open-source awareness by **35%** and leading a team to manage **1,000+** event registrations.
@@ -117,7 +118,6 @@ I operate at the intersection of **Product, Community, and Agentic AI**. I don't
   <a href="https://www.linkedin.com/in/rohan-balu-ab8452282/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rohanbalu05@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <br /> <br />
+  <b>Email me: rohanbalu05@gmail.com</b>
 </div>
