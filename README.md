@@ -2,7 +2,7 @@
 
   <!-- HEADER ANIMATION -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=Wake+up%2C+Visitor...;I+am+Rohan+Balu;Building+impactful+AI+agents;An+AI+Generalist;Welcome+to+the+Matrix." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&random=false&v=1&lines=Wake+up%2C+Visitor...;I+am+Rohan+Balu;Building+impactful+AI+agents;An+AI+Generalist;Welcome+to+the+Matrix." alt="Typing SVG" />
   </a>
 
   <br/>
