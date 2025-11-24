@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- HEADER ANIMATION -->
+  <!-- HEADER ANIMATION (Fixed to start from "Wake Up") -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=33&duration=3000&pause=1000&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&random=false&v=1&lines=Wake+up%2C+Visitor...;I+am+Rohan+Balu;Building+impactful+AI+agents;An+AI+Generalist;Welcome+to+the+Matrix." alt="Typing SVG" />
   </a>
@@ -14,9 +14,9 @@
   <br/>
   <br/>
 
-  <!-- RED PILL / BLUE PILL TEXT -->
+  <!-- RED PILL / BLUE PILL TEXT (Fixed Colors using LaTeX) -->
   <h3>
-    Will you take the <span style="color: #FF0000;">red</span> pill or the <span style="color: #2E9AFE;">blue</span> pill?
+    Will you take the $\color{#FF3333}{\textsf{red}}$ pill or the $\color{#3399FF}{\textsf{blue}}$ pill?
   </h3>
   
   <br/>
@@ -107,7 +107,9 @@ I operate at the intersection of **Product, Community, and Agentic AI**. I don't
   <p>
     <img src="https://img.shields.io/badge/Agentic_Workflows-000000?style=flat-square&logo=robotframework&logoColor=white" />
     <img src="https://img.shields.io/badge/Object_Oriented_Programming-000000?style=flat-square&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Structures-000000?style=flat-square&logo=codewars&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data_Structures-000000?style=flat-square&logo=codewars&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/LLM_Orchestration-000000?style=flat-square&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rapid_Prototyping-000000?style=flat-square&logo=githubactions&logoColor=white" />
   </p>
 
 </div>
